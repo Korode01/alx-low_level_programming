@@ -1,19 +1,18 @@
-include <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
 /**
- *  main - Entry point
- *  code description
- *  Return: Always 0 (Success)
- * */
+ * main - Entry point
+ * code description
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
 	int n;
-
 	int m;
 
 	srand(time(0));
@@ -31,7 +30,6 @@ int main(void)
 	else
 	{
 		printf("Last digit of %i is %i and is less than 6 and not 0\n", n, m);
-	}
-
+											}
 	return (0);
 }
