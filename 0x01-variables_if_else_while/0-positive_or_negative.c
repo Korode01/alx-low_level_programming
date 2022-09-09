@@ -9,6 +9,7 @@
  *  code description
  *  Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
@@ -27,5 +28,4 @@ int main(void)
 		printf("%i is negative\n", n);
 	}
 	return (0);
-
 }
