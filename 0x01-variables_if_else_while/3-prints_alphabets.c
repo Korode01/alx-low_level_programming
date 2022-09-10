@@ -1,13 +1,14 @@
 #include<stdio.h>
 
 /**
- * main - Entry point
+66 * main - Entry point
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
 {
+ 
  char q;
 
  q = 'a';
