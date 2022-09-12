@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <stdio.h
 
 /**
- 
- * main - entry block
   
- * description - print the lowercase alphabet in reverse
+ * main - entry block
  
+ * description - print the lowercase alphabet in reverse
+
 Return: 0
 
 **/
